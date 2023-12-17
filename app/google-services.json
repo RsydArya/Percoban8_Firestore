@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "724404222426",
+    "project_id": "firestoref55122025",
+    "storage_bucket": "firestoref55122025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724404222426:android:13a19373a1ebe24657a8e3",
+        "android_client_info": {
+          "package_name": "com.arya.firebasefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-dTF4ndT-3QcEOhCVajoUtfy5IGaUku8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
